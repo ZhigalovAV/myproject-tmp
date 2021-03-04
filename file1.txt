@@ -1,2 +1,4 @@
 My first file
-added string v 3
+aded string v 3
+new3
+new4
