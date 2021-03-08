@@ -1,4 +1,0 @@
-My first file
-aded string v 3
-new3
-new4
