@@ -18,9 +18,9 @@ src="scale_1200.jfif">
 Server Host Name : {{ ansible_hostname }} <br>
 Server OS Family : {{ ansible_os_family }} <br>
 <hr>
-Зеркало сайта 
-<a href=http://flyimage/>
-http://flyimage/</a>
+IP Address WEB Server 
+<a href={{ ansible_all_ipv4_addresses }}>
+{{ ansible_all_ipv4_addresses }}</a>
 <br/><br/>
 </body>
 </html>
